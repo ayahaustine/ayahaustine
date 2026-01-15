@@ -11,7 +11,3 @@
 - ```
   I write scripts, APIs, ML/AI, and LLM models
   ```
-  
-- ```
-  Reach me through: ayahaustine@gmail.com
-  ```
