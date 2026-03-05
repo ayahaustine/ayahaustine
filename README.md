@@ -1,4 +1,4 @@
-## Yo!👋
+## Hello!👋
 
 - ```
   FOSS hobbyist
