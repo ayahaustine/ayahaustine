@@ -1,13 +1,1 @@
-## Hello!👋
-
-- ```
-  FOSS hobbyist
-  ```
-
-- ```
-  Scalable microservice/macroservice (Backend) systems.
-  ```
-
-- ```
-  I write scripts, APIs, ML/AI, and LLM models
-  ```
+Python/Go
